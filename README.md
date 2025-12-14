@@ -26,7 +26,7 @@ Interesting features:
 
 - Many animations added to player, NPC, and agents for walking with and aiming a rifle, attacking, idling sitting down, being stunned (1)
 
-- Parkour course built for 3rd-person controller and using PBR textures (1)
+- ProBuilder parkour course built for 3rd-person controller and using PBR textures (1)
 
 # References to resources used in the project
 
